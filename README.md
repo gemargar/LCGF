@@ -6,7 +6,7 @@ The purpose of this simulation app is to calculate the values of the geometrical
 
 ## Release
 
-The app is available in Windows only (sorry about that). You can download the latest release [here](https://github.com/gemargar/LCGF/releases). You can download MATLAB Compiler Runtime (MCRInstaller.exe) [here](https://www.mathworks.com/products/compiler/matlab-runtime.html). Since the app was built in MATLAB R2013a (8.1), make sure you install the correct MCR version before running the application, which is **R2013a (8.1)**.
+The app is available in Windows only (sorry about that). You can download the latest release [here](https://github.com/gemargar/LCGF/releases). To run the application you will first need to install the MATLAB Compiler Runtime (MCRInstaller.exe), which you can download [here](https://www.mathworks.com/products/compiler/matlab-runtime.html). Since the app was built in MATLAB R2013a (8.1), make sure you install the correct MCR version before running the application, which is **R2013a (8.1)**.
 
 ## Start Window
 
